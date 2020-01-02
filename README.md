@@ -5,10 +5,11 @@ This repo contains various data structure algorithms implemented with python.
 1. Python 3.6
 
 ## Data Structures and Algorithms Description: 
-1. Stack - Element is added and removed from top. It follows LIFO.
-2. Queue - Element is added from rear and removed from front. It follows FIFO.
-3. LinkList - Each Node contains data and address of next node.
-4. BST - Binary Search tree, each node has either 0, 1 or 2 childs and left child is always less than its parent and right child will be greater.
+1. **Stack** - Element is added and removed from top. It follows LIFO.
+2. **Queue** - Element is added from rear and removed from front. It follows FIFO.
+3. **LinkList** - Each Node contains data and address of next node.
+4. **BST** - Binary Search tree, each node has either 0, 1 or 2 childs and left child is always less than its parent and right child will be greater.
+5. **Graph** - It contains various vertices connected using edges. Graph.py also contains **BFS** and **DFS** traversal.
 
 ### Note: 
 1. Every Program is written to show the basic working of the algorithms there are not any validations on data etc.
