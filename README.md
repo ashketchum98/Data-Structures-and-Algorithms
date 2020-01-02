@@ -10,6 +10,7 @@ This repo contains various data structure algorithms implemented with python.
 3. **LinkList** - Each Node contains data and address of next node.
 4. **BST** - Binary Search tree, each node has either 0, 1 or 2 childs and left child is always less than its parent and right child will be greater.
 5. **Graph** - It contains various vertices connected using edges. Graph.py also contains **BFS** and **DFS** traversal.
+6. **Dynamic Programming** - It is an Optimization technique which stores intermediate results which can be used further. It is explained using Fibonacci series.
 
 ### Note: 
 1. Every Program is written to show the basic working of the algorithms there are not any validations on data etc.
